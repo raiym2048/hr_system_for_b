@@ -1,0 +1,1 @@
+CREATE TABLE mytbdb(num varchar(233));
